@@ -104,7 +104,7 @@ def Previous_recordings():
     con = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="root",
+        password="",
         database="text_to_speech"
         )
     cursor = con.cursor()
@@ -166,7 +166,7 @@ text.place(x=750,y=128)
 #SAVE BUTTON
 
 saveimage=Image.open('save.png')
-gim=saveimage.resize((50,45),Image.ANTIALIAS)
+gim=saveimage.resize((50,45),Image.BICUBIC)
 imge=ImageTk.PhotoImage(gim)
 
 
@@ -177,7 +177,7 @@ insert= tk.Button(audio,text="Save ",fg="black",font=("Roboto",13,"bold"),bg="#1
 #PLAY BUTTON
 
 image=(Image.open('speak.png'))
-mg=image.resize((35,33),Image.ANTIALIAS)
+mg=image.resize((35,33),Image.BICUBIC)
 img=ImageTk.PhotoImage(mg)
 
 
@@ -187,7 +187,7 @@ play = tk.Button(audio,text='Play audio',fg="black",bg="#13d64f",font=("Roboto",
 #PREVIOUS RECORDINGS BUTTON
 
 previousimage=Image.open('Previous.png')
-pimg=previousimage.resize((30,35),Image.ANTIALIAS)
+pimg=previousimage.resize((30,35),Image.BICUBIC)
 pimge=ImageTk.PhotoImage(pimg)
 
 
