@@ -37,3 +37,6 @@ Execute your Python script (project.py).
 This project uses the Tkinter library for GUI, so make sure Tkinter is included in your Python installation (which is typically the case).
 
 If you encounter any other errors or missing modules, use pip install to install the required modules.
+
+[![LinkedIn](https://github.com/gajju44/Text-to-speech-converter/blob/main/linkedin-icon-2.svg)](https://www.linkedin.com/in/gajendra-naphade-513a54262/?originalSubdomain=in)
+
