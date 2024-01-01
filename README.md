@@ -13,7 +13,8 @@
 
 4)MySQL Connector: This project uses MySQL as the database. Install the MySQL Connector using command prompt using bellow command:
    pip install mysql-connector-python
-<img src="{[BadgeURLHere](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)}" />
+   ![image]({[BadgeURLHere](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)})
+
 ........................................................................................................................................
 >Instructions:
 
