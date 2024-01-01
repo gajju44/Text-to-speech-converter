@@ -42,15 +42,16 @@ If you encounter any other errors or missing modules, use pip install to install
 ........................................................................................................................................
 
 >Contact us
-[Gajendra Naphade](https://www.linkedin.com/in/gajendra-naphade-513a54262/?originalSubdomain=in)
+</br>
 <a href="https://www.linkedin.com/in/gajendra-naphade-513a54262/?originalSubdomain=in">
-  <img src="https://github.com/gajju44/Text-to-speech-converter/blob/main/linkedin-icon-2.svg" alt="LinkedIn" width="50"/>
-</a>
+  <img src="https://github.com/gajju44/Text-to-speech-converter/blob/main/linkedin-icon-2.svg" alt="LinkedIn" width="40"/>
+</a>[Gajendra Naphade](https://www.linkedin.com/in/gajendra-naphade-513a54262/?originalSubdomain=in)
 
-[Piyush Pise](https://www.linkedin.com/in/piyush-pise-73400a264/)
+</br>
+
 <a href="https://www.linkedin.com/in/piyush-pise-73400a264/">
-  <img src="https://github.com/gajju44/Text-to-speech-converter/blob/main/linkedin-icon-2.svg" alt="LinkedIn" width="50"/>
-</a>
+  <img src="https://github.com/gajju44/Text-to-speech-converter/blob/main/linkedin-icon-2.svg" alt="LinkedIn" width="40"/>
+</a>[Piyush Pise](https://www.linkedin.com/in/piyush-pise-73400a264/)
 
 
 
