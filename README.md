@@ -38,14 +38,16 @@ This project uses the Tkinter library for GUI, so make sure Tkinter is included 
 
 If you encounter any other errors or missing modules, use pip install to install the required modules.
 
+
+........................................................................................................................................
+
 >Contact us
-</br>
-Gajendra Naphade
+[Gajendra Naphade](https://www.linkedin.com/in/gajendra-naphade-513a54262/?originalSubdomain=in)
 <a href="https://www.linkedin.com/in/gajendra-naphade-513a54262/?originalSubdomain=in">
   <img src="https://github.com/gajju44/Text-to-speech-converter/blob/main/linkedin-icon-2.svg" alt="LinkedIn" width="50"/>
 </a>
-</br>
-Piyush Pise
+
+[Piyush Pise](https://www.linkedin.com/in/piyush-pise-73400a264/)
 <a href="https://www.linkedin.com/in/piyush-pise-73400a264/">
   <img src="https://github.com/gajju44/Text-to-speech-converter/blob/main/linkedin-icon-2.svg" alt="LinkedIn" width="50"/>
 </a>
